@@ -677,6 +677,13 @@
 - [Awesome Search](https://awesomelists.top) - Quick search for Awesome lists.
 
 
+## Extra Help
+
+- [Page Insights](https://developers.google.com/speed/pagespeed/insights/) - Check the Speed of your website.
+- [Fonts](https://fontawesome.com/) - Use better fonts in your website.
+
+
+
 ## License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
